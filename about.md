@@ -1,3 +1,3 @@
 layout: page
-title: "https://felixerksell.github.io/"
+title: "about"
 permalink: /about/
